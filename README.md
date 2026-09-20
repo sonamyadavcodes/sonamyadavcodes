@@ -19,7 +19,7 @@ ________________________________________________________________________________
     
 </head> 
 <body>
-<h2>Connect With Me</h2>
+<h2>🌐Connect With Me</h2>
     <a href="https://www.linkedin.com/in/sonam-yadav-136749364" class="btn social-btn linkedin-btn" tabindex="-1" role="button" aria-disabled="true"><i class="fa-brands fa-linkedin"></i>LINKEDIN</a>
     <a href="https://github.com/sonamyadavcodes" class="btn social-btn github-btn" tabindex="-1" role="button" aria-disabled="true"><i class="fa-brands fa-github"></i>GITHUB</a>
     <a href="https://leetcode.com/sonamyadav_7" class="btn social-btn leetcode-btn" tabindex="-1" role="button" aria-disabled="true"><i class="fa-brands fa-leetcode"></i>LEETCODE</a>
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________________
 
-<h2>Tech Stack</h2>
+<h2>🚀Tech Stack</h2>
 
 <h3>Languages</h3>
     
