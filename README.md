@@ -12,7 +12,7 @@ ________________________________________________________________________________
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sample</title>
+    <!--<title>sample</title>-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
@@ -27,10 +27,11 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________________
 
-#Tech Stack
+<h2>Tech Stack</h2>
 
-    <h3>Languages</h3>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<h3>Languages</h3>
+    
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
