@@ -19,15 +19,15 @@ ________________________________________________________________________________
     
 </head> 
 <body>
-    <h2>Connect With Me</h2>
+<h2>Connect With Me</h2>
     <a href="https://www.linkedin.com/in/sonam-yadav-136749364" class="btn social-btn linkedin-btn" tabindex="-1" role="button" aria-disabled="true"><i class="fa-brands fa-linkedin"></i>LINKEDIN</a>
     <a href="https://github.com/sonamyadavcodes" class="btn social-btn github-btn" tabindex="-1" role="button" aria-disabled="true"><i class="fa-brands fa-github"></i>GITHUB</a>
     <a href="https://leetcode.com/sonamyadav_7" class="btn social-btn leetcode-btn" tabindex="-1" role="button" aria-disabled="true"><i class="fa-brands fa-leetcode"></i>LEETCODE</a>
     <a href="https://sonamyadav.lovable.app" class="btn social-btn portfolio-btn" tabindex="-1" role="button" aria-disabled="true"><i class="fa-brands fa-briefcase"></i>PORTFOLIO</a>
 
+__________________________________________________________________________________________________________________________________________________________________
 
-
-    <h2>Tech Stack</h2>
+#Tech Stack
 
     <h3>Languages</h3>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -37,8 +37,6 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-
 
 <h3>Frontend</h3>
 
