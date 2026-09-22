@@ -46,5 +46,43 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+.social-btn {
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.linkedin-btn {
+    background-color: #0A66C2;
+}
+
+.github-btn {
+    background-color: #24292e;
+}
+
+.leetcode-btn {
+    background-color: #FFA116;
+}
+
+.portfolio-btn {
+    background-color: #6C63FF;
+}
+
+.social-btn:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
+.github-btn {
+    background-color: black !important;
+    color: white !important;
+    border: 1px solid white !important;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.github-btn:hover {
+    background-color: #333 !important;
+}
 </body>
 </html>
